@@ -1,0 +1,32 @@
+#todoInput{
+    padding: 15px;
+    border: none;
+    outline: 2px solid red;
+    width: 30%;
+    
+}
+
+#todoSend{
+    border: none;
+    background-color: red;
+    color: white;
+    padding: 14px 20px;
+    font-size: 18px;
+    font-weight: 600;
+}
+#formContainer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    
+}
